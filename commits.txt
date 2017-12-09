@@ -1,0 +1,17 @@
+commit 046e0f825d761de422d49e7e251d49a4d6de2540
+Author: jdiaz <jose.diaz15851@gmail.com>
+Date:   Fri Dec 8 18:57:07 2017 -0500
+
+    cambiamos el email de la pagina
+
+commit 049d724177246f18bb3223e2b6b4bf8f5204f7a2
+Author: jdiaz <jose.diaz15851@gmail.com>
+Date:   Fri Dec 8 18:55:37 2017 -0500
+
+    cambiamos el nombre de la pagina
+
+commit 4c0534d71b5caaeec2de2250eea69f75937cee09
+Author: jdiaz <jose.diaz15851@gmail.com>
+Date:   Fri Dec 8 18:53:56 2017 -0500
+
+    subiendo todos los archivos iniciales
